@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Привет, я Аделя!
+### Junior Frontend Developer
 
-<!--
-**astrawalker-dev/astrawalker-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Frontend Developer, работаю с HTML, CSS, JavaScript и React.  
+Изучаю Go, чтобы лучше понимать backend. Создаю учебные проекты и постоянно практикуюсь.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Технологии
+**Frontend:** HTML, CSS (Grid/Flex), JavaScript, React (Hooks)  
+**Инструменты:** Git, GitHub, Figma, VS Code  
+**Дополнительно изучаю:** Go (базовый уровень)
+
+---
+
+## 📌 Мои проекты
+### 🍔 Онлайн-магазин фастфуда
+**Стек:** HTML, CSS  
+Адаптивная вёрстка, сетки Grid/Flex.  
+Ссылка: будет
+
+### ❌⭕ Игра «Крестики-нолики»
+**Стек:** JavaScript, React  
+Игровая логика, компоненты, хуки.  
+Ссылка: будет
+
+---
+
+## 📫 Контакты
+Email: guseinova.adelya@yandex.ru  
+Telegram: @g_adelle  
+LinkedIn: www.linkedin.com/in/аделя-гусейнова
