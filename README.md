@@ -14,7 +14,7 @@ I'm learning Go to better understand the backend. I create learning projects and
 **Инструменты:** Git, GitHub, Figma, VS Code  
 **Дополнительно изучаю:** Go (базовый уровень)
 
-##🔧 Technologies
+🔧 Technologies
 Frontend: HTML, CSS (Grid/Flex), JavaScript, React (Hooks)
 Tools: Git, GitHub, Figma, VS Code
 Additionally learning: Go (basic level)
